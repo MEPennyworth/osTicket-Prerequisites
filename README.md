@@ -24,7 +24,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - osTicket v1.15.8
 - PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 - Rewrite Module (rewrite_amd64_en-US.msi)
-- MySQL and HeidiSQL Databases 
+- Redistributable Package for Microsoft C++ (VC_redist.x86.exe)
+- MySQL (mysql-5.5.62-win32.msi) Database
+- HeidiSQL Database
 - Notepad
 
 <h2>Installation Steps</h2>
