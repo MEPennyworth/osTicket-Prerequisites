@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/MDivOjI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MDivOjI.png" height="80%" width="80%" alt="osTicket Prerequisites"/>
 </p>
 <p>
 This installation guide begins with the assumption that the aspiring IT Help Desk Technician already has a tenant setup in Microsoft Azure with a subscription. It will then be followed with the creation of a Resource Group, which will house a virtual network, which in turn will contain a Subnet. Within this Subnet, a Virtual Machine will be created where the osTicket application dependencies will ultimately be installed.
