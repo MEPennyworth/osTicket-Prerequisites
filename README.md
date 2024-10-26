@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 Step 1: Sign in to Azure Portal
-   - Go to the [Azure Portal](https://portal.azure.com) and sign in with your Microsoft account credentials.
+   - Go to the [Azure Portal](https://portal.azure.com) and sign in with your Microsoft account credentials. After a successful sign-in, the user will be directed to the Azure dashboard.
 </p>
 <br />
 
