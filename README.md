@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 Step 1: Sign in to Azure Portal
-   - Go to the [Azure Portal](https://portal.azure.com) and sign in with your Microsoft account credentials. After a successful sign-in, the user will be directed to the Azure dashboard. Navigate to the Virtual Machines icon by clicking on it.
+   - Go to the [Azure Portal](https://portal.azure.com) and sign in with your Microsoft account credentials. After a successful sign-in, the user will be directed to the Azure dashboard. Navigate to the Virtual Machines icon by clicking on it.  
 </p>
 <br />
 
@@ -44,7 +44,7 @@ Step 1: Sign in to Azure Portal
 <img src="https://i.imgur.com/49mhExu.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-On the Virtual Machines page, create a new virtual machine (VM) by clicking on "Create" and selecting "Azure virtual mchine " from the drop down menu list.
+On the Virtual Machines page, create a new virtual machine (VM) by clicking on "Create" and selecting "Azure virtual mchine " from the drop down menu list. This will initiate the configuration of the virtual machine beginning with the Basic settings.
 </p>
 <br />
 
