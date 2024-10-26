@@ -53,9 +53,17 @@ Step 2: On the Virtual Machines page, create a new virtual machine (VM) by click
 </p>
 <p>
 Step 3: Configure Basic Settings
-   - Subscription: In the subscription box, choose the preferred one for the setup
-   - Resource Group: In this box, either select an existing resource group or create a new one by clicking "Create new" and entering a name
-   -
+   
+- Windows Server
+- Web Server
+- osTicket v1.15.8
+- PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+- Rewrite Module (rewrite_amd64_en-US.msi)
+- Redistributable Package for Microsoft C++ (VC_redist.x86.exe)
+- MySQL (mysql-5.5.62-win32.msi) Database
+- HeidiSQL Database
+- Notepad
+
 </p>
 <br />
 
