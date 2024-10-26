@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="(https://imgur.com/a/Rz1TWr3)" height="80%" width="80%" alt="osTicket Prerequisites"/>
+<img src="(https://imgur.com/a/Rz1TWr3)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This installation guide begins with the assumption that the aspiring IT Help Desk Technician already has a tenant setup in Microsoft Azure with a subscription. Login into the Microsoft Azure portal and navigate to the Azure dashboard.
