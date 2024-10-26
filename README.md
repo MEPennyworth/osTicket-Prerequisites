@@ -53,6 +53,9 @@ Step 2: On the Virtual Machines page, create a new virtual machine (VM) by click
 </p>
 <p>
 Step 3: Configure Basic Settings
+   - Subscription: In the subscription box, choose the preferred one for the setup
+   - Resource Group: In this box, either select an existing resource group or create a new one by clicking "Create new" and entering a name
+   -
 </p>
 <br />
 
