@@ -19,6 +19,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Azure Virtual Machine Windows 10, 4 vCPU's
+- On-premise Operating System (Windows 10/11, MacOS, Linux)
+- Windows App for MacOS (Formerly knwon as Remote Desktop)
 - Windows Server
 - Web Server
 - osTicket v1.15.8
