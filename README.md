@@ -36,6 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 This installation guide begins with the assumption that the aspiring IT Help Desk Technician already has a tenant setup in Microsoft Azure with a subscription. It will then be followed with the creation of a Resource Group, which will house a virtual network, which in turn will contain a Subnet. Within this Subnet, a Virtual Machine will be created where the osTicket application dependencies will ultimately be installed.
+  [Azure Dashboard](https://drive.google.com/file/d/1ShQV7TB-y1NIBRXw-LNTXl-VhdjgUUwG/view?usp=sharing)
 </p>
 <br />
 
