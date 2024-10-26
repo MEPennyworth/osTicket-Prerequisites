@@ -9,7 +9,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Windows App for MacOS (Formerly Remote Desktop)
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
@@ -19,8 +19,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Azure Virtual Machine Windows 10, 4 vCPU's
-- On-premise Operating System (Windows 10/11, MacOS, Linux)
-- Windows App for MacOS (Formerly knwon as Remote Desktop)
 - Windows Server
 - Web Server
 - osTicket v1.15.8
