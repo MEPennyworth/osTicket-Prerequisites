@@ -54,15 +54,16 @@ Step 2: On the Virtual Machines page, create a new virtual machine (VM) by click
 <p>
 Step 3: Configure Basic Settings
    
-- Windows Server
-- Web Server
-- osTicket v1.15.8
-- PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
-- Rewrite Module (rewrite_amd64_en-US.msi)
-- Redistributable Package for Microsoft C++ (VC_redist.x86.exe)
-- MySQL (mysql-5.5.62-win32.msi) Database
-- HeidiSQL Database
-- Notepad
+- Subscription: In the subscription box, select the preferred one for the virtual machine set-up
+- Resource group: In this box, create a new "Resource group" and name it "osTicket" by clicking on "Create new"
+- Virtual machine name: In this box, enter a unique name within the Resource group for the virtual machine, in this case, "osTicket-VM"
+- Region: Select the region where you want your VM to be hosted. Based on my location, I chose -  (US) East US 
+- Availability options: In this box, the "Availability zone" option is preselected by Azure based on the redundancy needs of this virtual machine
+- Security type: Leave as is - "Trusted launch virtual machines"
+- Image: Use the drop down menu to select the preferred image for the virtual machine by choosing "Windows 10 Pro, version 22H2 - x64 Gen2"
+- Size: Select "standard_d2s_v3 - 2vcpus, 8 GiB memory ($70.08/month) Price will vary based on region
+- Username: Enter a username for the administrator account
+- Password: Enter a strong password 
 
 </p>
 <br />
