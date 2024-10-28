@@ -112,16 +112,19 @@ Step 6: Review + Create
 <p>
 Step 7: Deployment in progress:
    
-- The deployment of the virtual machine might take time to deploy. Please sit tight and grab a cup of coffee or tea as you wait.
+- The deployment of the virtual machine might take time. Please sit tight. Grab a cup of coffee or tea as you wait.
  
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iSRDmyA.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 8: Deployment complete
+   
+- The notification "Your deployment is complete" confirms the successful creation and hosting of the osTicket virtual machine on Microsoft Azure. Congrats!
+ 
 </p>
 <br />
 
