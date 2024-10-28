@@ -77,7 +77,7 @@ Step 3: Configure Basic Settings
 <p>
 Step 4: Configure Disks 
    
-- With this given virtual machine setup, the Disk selection on this pagee will be left as is, since it satisfies our lab prerequisites. If it changes for any reason, please use the drop down menus available to configure the OS Disk to match those in the above image
+- Given this virtual machine setup, the Disk selection on this page will be left as is, since it satisfies our lab prerequisites. If it changes for any reason, please use the drop down menus available to configure the OS Disk to match those in the above image
 - Click the "Next: Networking" tab to proceed to the Networking page
 
 </p>
@@ -146,11 +146,14 @@ Step 10: On the Virtual machines page, copy the public IP address of the osTicke
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BbN2uhh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Step 11: Open Windows App on MacOs 
+   
+- In order to connect to the osTicket-VM on Azure using MacOS, the user need to preinstall Windows App on the system, formerly known as Remote Desktop
+- On Windows App, click on the (+) icon and Add PC
+
 <br />
 
 <p>
