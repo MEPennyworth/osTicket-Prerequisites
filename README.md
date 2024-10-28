@@ -129,7 +129,7 @@ Step 8: Deployment complete
 <br />
 
 <p>
-<img src="https://i.imgur.com/7dMrZ2g.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AFdCJdL.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 9: Navigate back to Azure Services by clicking on the Home tab and navigate to the osTicket Virtual machine by clicking on the Virtual machine tab
