@@ -41,7 +41,7 @@ Step 1: Sign in to Azure Portal
 <br />
 
 <p>
-<img src="https://i.imgur.com/49mhExu.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/W2prigH.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 2: On the Virtual Machines page, create a new virtual machine (VM) by clicking on "Create" and selecting "Azure virtual mchine " from the drop down menu list. This will initiate the configuration of the virtual machine beginning with the Basic settings.
