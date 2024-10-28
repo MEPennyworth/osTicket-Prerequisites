@@ -146,13 +146,13 @@ Step 10: On the Virtual machines page, copy the public IP address of the osTicke
 <br />
 
 <p>
-<img src="https://i.imgur.com/BbN2uhh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qx1VrwT.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 11: Open Windows App on MacOs 
+Step 11: Start osTicket-VM 
    
-- In order to connect to the osTicket-VM on Azure using MacOS, the user need to preinstall Windows App (formerly known as Remote Desktop) on their operating system 
-- On Windows App, click on the (+) icon and select "Add PC" to open the "Add PC" dialogue box.
+- Proceed to start osTicket-VM by selecting the "Name" box and then click on the "Start" icon 
+- This will commence the osTicket-VM start process 
 
 <br />
 
