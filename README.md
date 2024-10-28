@@ -163,7 +163,7 @@ Step 11: Start osTicket-VM
 Step 12: Confirm the Virtual machine selection
    
 - Proceed by clicking "Yes"
-- This will start the osTicket
+- This will start the osTicket-VM
    
 </p>
 <br />
