@@ -152,15 +152,19 @@ Step 10: On the Virtual machines page, copy the public IP address of the osTicke
 Step 11: Start osTicket-VM 
    
 - Proceed to start osTicket-VM by selecting the "Name" box and then click on the "Start" icon 
-- Proceed to the confirmation dialogue box
+- Proceed to the Virtual machine confirmation dialogue box
 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/w0yV1JG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 12: Confirm the Virtual machine selection
+   
+- Proceed by clicking "Yes"
+- This will start the osTicket
+   
 </p>
 <br />
 
