@@ -152,7 +152,7 @@ Step 10: On the Virtual machines page, copy the public IP address of the osTicke
 Step 11: Start osTicket-VM 
    
 - Proceed to start osTicket-VM by selecting the "Name" box and then click on the "Start" icon 
-- This will commence the osTicket-VM start process 
+- Proceed to the confirmation dialogue box
 
 <br />
 
