@@ -77,7 +77,8 @@ Step 3: Configure Basic Settings
 <p>
 Step 4: Configure Disks 
    
-- With this given virtual machine setup, the Disk selection on this pagee will be left as is, since it satisfies our lab prerequisites. If it changes for any reason, please use the drop down menus available to configure the OS Disk to match those in the above image.  
+- With this given virtual machine setup, the Disk selection on this pagee will be left as is, since it satisfies our lab prerequisites. If it changes for any reason, please use the drop down menus available to configure the OS Disk to match those in the above image
+- Click the "Next: Networking" tab to proceed to the Networking page
 
 </p>
 <br />
