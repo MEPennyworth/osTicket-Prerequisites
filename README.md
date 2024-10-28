@@ -65,6 +65,7 @@ Step 3: Configure Basic Settings
 - Username: Enter a username for the administrator account
 - Password: Enter a strong password
 - Under the "Inbound port rules" section, "Public inbound ports" will be preselcted by Azure to allow traffic from selected ports. Leave the selected inbound ports: RDP (389) as is
+- Please be mindful of the costs of hosting virtual machines on Azure since it varies depending on a given geographical area
 - Remeber to check the licensing box and then click on the box "Next : Disks" to continue to the Disk selection page
 
 </p>
