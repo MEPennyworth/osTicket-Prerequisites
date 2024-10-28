@@ -151,7 +151,7 @@ Step 10: On the Virtual machines page, copy the public IP address of the osTicke
 <p>
 Step 11: Open Windows App on MacOs 
    
-- In order to connect to the osTicket-VM on Azure using MacOS, the user need to preinstall Windows App on the system, formerly known as Remote Desktop
+- In order to connect to the osTicket-VM on Azure using MacOS, the user need to preinstall Windows App (formerly known as Remote Desktop) on their operating system 
 - On Windows App, click on the (+) icon and select "Add PC" to open the "Add PC" dialogue box.
 
 <br />
