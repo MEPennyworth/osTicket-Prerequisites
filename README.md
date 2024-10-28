@@ -89,9 +89,7 @@ Step 4: Configure Disks
 <p>
 Step 5: Configure Networking
    
-- Microsoft Azure (Virtual Machines/Compute)
-- Windows App for MacOS (Formerly Remote Desktop)
-- Internet Information Services (IIS)
+- On the Networking page, leave everything as is and proceed by clicking on the "Review + Create" tab
    
 </p>
 <br />
