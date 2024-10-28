@@ -75,7 +75,10 @@ Step 3: Configure Basic Settings
 <img src="https://i.imgur.com/6vPvZB9.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-With this given virtual machine setup, the Disk selection on this pagee will be left as is, since it satisfies our lab . If it chnages for any reason, please use the drop down menus available to each box to configure the OS Disk to match those in the above image.
+Step 4: Configure Disks 
+   
+- With this given virtual machine setup, the Disk selection on this pagee will be left as is, since it satisfies our lab . If it chnages for any reason, please use the drop down menus available to each box to configure the OS Disk to match those in the above image.  
+
 </p>
 <br />
 
@@ -83,7 +86,12 @@ With this given virtual machine setup, the Disk selection on this pagee will be 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 5: Configure Networking
+   
+- Microsoft Azure (Virtual Machines/Compute)
+- Windows App for MacOS (Formerly Remote Desktop)
+- Internet Information Services (IIS)
+   
 </p>
 <br />
 
