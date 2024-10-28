@@ -157,7 +157,7 @@ Step 11: Start osTicket-VM
 <br />
 
 <p>
-<img src="https://imgur.com/a/w0yV1JG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kbtgDiu.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 12: Confirm the Virtual machine selection
