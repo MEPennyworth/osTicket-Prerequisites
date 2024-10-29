@@ -99,7 +99,7 @@ Step 5: Configure Networking
 Step 6: Review + Create
    
 - On this page, click on the "Review + Create" tab to validate the creation of the WindowsOS virtual machine
-- Wait till Microsift Azure validates the process. When the "Validation passed" notificstion appears on top of the page, proceed to click on the "create" tab below to initiate the creation of the virtual machine 
+- Wait till Microsift Azure validates the process. When the "Validation passed" notification appears on top of the page, proceed to click on the "create" tab below to initiate the creation of the virtual machine 
 </p>
 <br />
 
