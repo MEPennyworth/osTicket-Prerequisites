@@ -181,7 +181,7 @@ Step 13: Check the Notifications box to confirm the Start command was properly e
 </p>
 <p>
 Step 14: If not previously installed, proceed to install and open the Windows App (formerly Remote Desktop) on MacOS 
-
+- On Windows App, click on the (+) icon and select "Add PC" to open the "Add PC" dialogue box
 </p>
 <br />
 
