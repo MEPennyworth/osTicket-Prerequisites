@@ -234,7 +234,10 @@ Step 18: osTicket-VM WindowsOS login interface
 <img src="https://i.imgur.com/KWBIloU.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 19: Privacy Setup page
+   
+- On the privacy page, set all the highlighted boxes to "NO" because the osTicket-VM lab doesn't require nor depend on those settings to function.
+- Click the accept button to proceed
 </p>
 <br />
 
