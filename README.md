@@ -211,7 +211,7 @@ Step 16: Enter Your Credentials
 Step 17: Connect to the RDP Host
    
 - RDP stands for Remote Desktop Protocol, which is a proprietary protocol developed by Microsoft. It allows users to connect to another computer over a network connection, using a graphical interface. The "RDP host" refers to the computer that you are connecting to using RDP. This host computer runs the Remote Desktop Services, formerly known as Terminal Services, which enable the remote access
-- Role: The RDP host is the target machine that you want to access remotely. It should have Remote Desktop enabled and properly configured to accept incoming RDP connections
+- Role: The RDP host is the target machine that you want to access remotely. It should have Remote Desktop (Windows App) enabled and properly configured to accept incoming RDP connections
 - Operating System: Typically, the RDP host runs a version of Windows that supports Remote Desktop Services, such as Windows Server editions or Professional/Enterprise versions of Windows desktop operating systems
 - Network Configuration: To access an RDP host over the internet, network configurations such as port forwarding (commonly port 3389) and firewall settings may need to be adjusted to allow RDP traffic
 - Security: Using RDP involves security considerations, such as ensuring strong passwords, using network-level authentication, and potentially employing VPNs or other security measures to protect the remote connection
