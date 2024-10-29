@@ -213,7 +213,7 @@ Step 16: Enter Your Credentials
 - Click "Continue"
 
 <p>
-<img src="https://i.imgur.com/FNRTFPX.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1g1DTQh.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 17: 
