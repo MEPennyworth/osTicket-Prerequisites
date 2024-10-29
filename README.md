@@ -180,7 +180,7 @@ Step 13: Check the Notifications box to confirm the Start command was properly e
 <img src="https://i.imgur.com/pQMZxtx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 14: Open the Windows App (formerly Remote Desktop) previously installed on MacOS 
+Step 14: If not previously installed, proceed to install and open the Windows App (formerly Remote Desktop) on MacOS 
 
 </p>
 <br />
