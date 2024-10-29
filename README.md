@@ -109,7 +109,7 @@ Step 6: Review + Create
 <p>
 Step 7: Deployment in progress:
    
-- The deployment of the virtual machine might take time. Please sit tight. Grab a cup of coffee or tea as you wait. 
+- The deployment of the virtual machine might take some time. Please sit tight. Grab a cup of coffee or tea as you wait. 
 </p>
 <br />
 
