@@ -236,7 +236,7 @@ Step 18: osTicket-VM WindowsOS login interface
 <p>
 Step 19: Privacy Setup page
    
-- On the privacy page, set all the highlighted boxes to "NO" because the osTicket-VM lab doesn't require nor depend on those settings to function.
+- On the privacy page, set all the highlighted boxes to "NO" because the osTicket-VM lab doesn't require nor depend on those settings to function
 - Click the accept button to proceed
 </p>
 <br />
