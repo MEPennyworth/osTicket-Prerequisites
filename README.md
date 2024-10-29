@@ -64,6 +64,7 @@ Step 3: Configure Basic Settings
 - Size: Select "standard_d2s_v3 - 2vcpus, 8 GiB memory ($70.08/month) Price will vary based on region
 - Username: Enter a username for the administrator account
 - Password: Enter a strong password
+- Remember to save these credenials in a preferred notetaking app like Notes for MacOS, since they'll be needed later on 
 - Under the "Inbound port rules" section, "Public inbound ports" will be preselcted by Azure to allow traffic from selected ports. Leave the selected inbound ports: RDP (389) as is
 - Please be mindful of the costs of hosting virtual machines on Azure, since it varies depending on a given geographical area
 - Remember to check the licensing box and then click on the box "Next : Disks" to continue to the Disk selection page
@@ -195,7 +196,8 @@ Step 15: Configure the added PC on Windows App
 
 - Retreive the saved osTicket-VM Public IP address from Step 10 saved on the preferred Note taking APP
 - In the Edit PC dialogue box, paste the copied osTicket-VM Public IP address in the "PC name box"
-- In the "Friendly name box", type the name "osTicket" and click save.
+- In the "Friendly name box", type the name "osTicket" and click save
+- This will then prompt the opening of the credentials box
   
 </p>
 <br />
@@ -204,7 +206,12 @@ Step 15: Configure the added PC on Windows App
 <img src="https://i.imgur.com/4Z90tvS.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 16: Enter Your Credentials
+
+- Retrieve the saved Username and Password for the osTicket-VM previously saved on a preferred Notetaking app in Step 3
+- Enter those credentials into the Username and Password boxes respectively
+- Click "Continue"
+   
 </p>
 <br />
 
