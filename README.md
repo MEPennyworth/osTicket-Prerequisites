@@ -68,7 +68,6 @@ Step 3: Configure Basic Settings
 - Under the "Inbound port rules" section, "Public inbound ports" will be preselcted by Azure to allow traffic from selected ports. Leave the selected inbound ports: RDP (389) as is
 - Please be mindful of the costs of hosting virtual machines on Azure, since it varies depending on a given geographical area
 - Remember to check the licensing box and then click on the box "Next : Disks" to continue to the Disk selection page
-
 </p>
 <br />
 
@@ -80,7 +79,6 @@ Step 4: Configure Disks
    
 - Given this virtual machine setup, the Disk selection on this page will be left as is, since it satisfies our lab prerequisites. If it changes for any reason, please use the drop down menus available to configure the OS Disk to match those in the above image
 - Click the "Next: Networking" tab to proceed to the Networking page
-
 </p>
 <br />
 
@@ -90,8 +88,7 @@ Step 4: Configure Disks
 <p>
 Step 5: Configure Networking
    
-- On the Networking page, leave everything as is and proceed by clicking on the "Review + Create" tab
-   
+- On the Networking page, leave everything as is and proceed by clicking on the "Review + Create" tab   
 </p>
 <br />
 
@@ -102,8 +99,7 @@ Step 5: Configure Networking
 Step 6: Review + Create
    
 - On this page, click on the "Review + Create" tab to validate the creation of the WindowsOS virtual machine
-- Wait till Microsift Azure validates the process. When the "Validation passed" notificstion appears on top of the page, proceed to click on the "create" tab below to initiate the creation of the virtual machine.
-   
+- Wait till Microsift Azure validates the process. When the "Validation passed" notificstion appears on top of the page, proceed to click on the "create" tab below to initiate the creation of the virtual machine 
 </p>
 <br />
 
@@ -113,8 +109,7 @@ Step 6: Review + Create
 <p>
 Step 7: Deployment in progress:
    
-- The deployment of the virtual machine might take time. Please sit tight. Grab a cup of coffee or tea as you wait.
- 
+- The deployment of the virtual machine might take time. Please sit tight. Grab a cup of coffee or tea as you wait. 
 </p>
 <br />
 
@@ -124,8 +119,7 @@ Step 7: Deployment in progress:
 <p>
 Step 8: Deployment complete
    
-- The notification "Your deployment is complete" confirms the successful creation and hosting of the osTicket virtual machine on Microsoft Azure. Congrats!
- 
+- The notification "Your deployment is complete" confirms the successful creation and hosting of the osTicket virtual machine on Microsoft Azure. Congrats! 
 </p>
 <br />
 
@@ -133,8 +127,7 @@ Step 8: Deployment complete
 <img src="https://i.imgur.com/AFdCJdL.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 9: Navigate back to Azure Services by clicking on the Home tab and navigate to the osTicket Virtual machine by clicking on the Virtual machine tab
-   
+Step 9: Navigate back to Azure Services by clicking on the Home tab and navigate to the osTicket Virtual machine by clicking on the Virtual machine tab   
 </p>
 <br />
 
@@ -154,7 +147,7 @@ Step 11: Start osTicket-VM
    
 - Proceed to start osTicket-VM by selecting the "Name" box and then click on the "Start" icon 
 - Proceed to the Virtual machine confirmation dialogue box
-
+</p>
 <br />
 
 <p>
@@ -164,8 +157,7 @@ Step 11: Start osTicket-VM
 Step 12: Confirm the Virtual machine selection
    
 - Proceed by clicking "Yes"
-- This will start the osTicket-VM
-   
+- This will start the osTicket-VM   
 </p>
 <br />
 
@@ -183,8 +175,7 @@ Step 13: Check the Notifications box to confirm the Start command was properly e
 <p>
 Step 14: If not previously installed, proceed to install and open the Windows App (formerly Remote Desktop) on MacOS 
 
-- On Windows App, click on the (+) icon and select "Add PC" to open the "Add PC" dialogue box
-  
+- On Windows App, click on the (+) icon and select "Add PC" to open the "Add PC" dialogue box  
 </p>
 <br />
 
@@ -197,8 +188,7 @@ Step 15: Configure the added PC on Windows App
 - Retreive the saved osTicket-VM Public IP address from Step 10 saved on the preferred Note taking APP
 - In the Edit PC dialogue box, paste the copied osTicket-VM Public IP address in the "PC name box"
 - In the "Friendly name box", type the name "osTicket" and click save
-- This will then prompt the opening of the credentials box
-  
+- This will then prompt the opening of the credentials box  
 </p>
 <br />
 
@@ -219,12 +209,13 @@ Step 16: Enter Your Credentials
 </p>
 <p>
 Step 17: Connect to the RDP Host
+   
 - RDP stands for Remote Desktop Protocol, which is a proprietary protocol developed by Microsoft. It allows users to connect to another computer over a network connection, using a graphical interface. The "RDP host" refers to the computer that you are connecting to using RDP. This host computer runs the Remote Desktop Services, formerly known as Terminal Services, which enable the remote access
 - Role: The RDP host is the target machine that you want to access remotely. It should have Remote Desktop enabled and properly configured to accept incoming RDP connections
 - Operating System: Typically, the RDP host runs a version of Windows that supports Remote Desktop Services, such as Windows Server editions or Professional/Enterprise versions of Windows desktop operating systems
-
-- Proceed by clicking "Yes"
-- This will start the osTicket-VM
+- Network Configuration: To access an RDP host over the internet, network configurations such as port forwarding (commonly port 3389) and firewall settings may need to be adjusted to allow RDP traffic
+- Security: Using RDP involves security considerations, such as ensuring strong passwords, using network-level authentication, and potentially employing VPNs or other security measures to protect the remote connection
+- Usage: Commonly used for administering servers, accessing work computers from home, or providing technical support.   
 </p>
 <br />
 
