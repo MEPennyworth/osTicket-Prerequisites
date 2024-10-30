@@ -198,7 +198,7 @@ Step 15: Configure the added PC on Windows App
 <p>
 Step 16: Enter Your Credentials
 
-- Retrieve the saved Username and Password for the osTicket-VM previously saved on a preferred Notetaking app in Step 3
+- Retrieve the saved Username and Password for the osTicket-VM previously saved on the preferred Notetaking app in Step 3
 - Enter those credentials into the Username and Password boxes respectively
 - Click "Continue"
 </p>
