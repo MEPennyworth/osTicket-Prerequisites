@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Redistributable Package for Microsoft C++ (VC_redist.x86.exe)
 - MySQL (mysql-5.5.62-win32.msi) Database
 - HeidiSQL Database
-- Notepad
+- Notetaking application (Notes for MacOS or Sublime)
 
 <h2>Installation Steps</h2>
 
@@ -185,7 +185,7 @@ Step 14: If not previously installed, proceed to install and open the Windows Ap
 <p>
 Step 15: Configure the added PC on Windows App
 
-- Retreive the saved osTicket-VM Public IP address from Step 10 saved on the preferred Note taking APP
+- Retrieve the saved osTicket-VM Public IP address from Step 10 saved on the preferred Note taking APP
 - In the Edit PC dialogue box, paste the copied osTicket-VM Public IP address in the "PC name box"
 - In the "Friendly name box", type the name "osTicket" and click save
 - This will then prompt the opening of the credentials box  
