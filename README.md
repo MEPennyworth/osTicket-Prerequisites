@@ -40,7 +40,7 @@ Step 1: Sign in to Azure Portal
    
 -  Navigate to the [Microsoft Azure Portal](https://portal.azure.com)
 -  Sign in with the user's Microsoft Azure account credentials
--  On the home page of Microsoft Azure, under Azure Services, locate and select the Virtual Machines icon
+-  On the home page of Microsoft Azure, under Azure services, locate and select the Virtual Machines icon
 </p>
 <br />
 
