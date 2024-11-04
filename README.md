@@ -326,7 +326,7 @@ Step 28: Verify if "Internet Information Services(IIS)" is enabled
 <br />
 
 <p>
-<img src="https://i.imgur.com/jajNvHv.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cmrJnQe.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 29: Open the osTicket installation files folder on the desktop and select PHP Manager for IIS to open and begin the installation of PHP
