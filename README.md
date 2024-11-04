@@ -131,7 +131,7 @@ Step 8: Deployment complete
 <img src="https://i.imgur.com/AFdCJdL.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 9: Navigate back to Azure Services by clicking on the Home tab and navigate to the osTicket Virtual machine by clicking on the Virtual machine tab   
+Step 9: Navigate back to Azure Services by selecting the Home tab. Navigate to the osTicket Virtual machine by clicking on the Virtual machine tab   
 </p>
 <br />
 
@@ -254,10 +254,10 @@ Step 20: Launch Microsoft Edge to begin the installation of the osTicket depende
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kl1PSMF.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 21: Paste the osTicket installation zip files into the Microsoft Edge browser to begin installation
 </p>
 <br />
 
