@@ -342,7 +342,7 @@ Step 30: PHP Manager for IIS License Agreement. Agree to the terms and proceed t
 <br />
 
 <p>
-<img src="https://i.imgur.com/zlb6quG.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8bgCTTY.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 31: PHP Manager for IIS Setup Wizard 
