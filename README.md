@@ -281,15 +281,15 @@ Step 23: Open the osTicket files to reveal the dependencies needed for the osTic
 <img src="https://i.imgur.com/FJxTwtZ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 24: Open control panel from the search bar
+Step 24: Open control panel from the search bar 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LgKyd1V.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 25: From the Control Panel settings, click on the "uninstall a program" under Programs to open "Programs and Features"
 </p>
 <br />
 
