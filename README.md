@@ -18,16 +18,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
+- Notetaking application (Notes for MacOS or Sublime)
 - Azure Virtual Machine Windows 10, 4 vCPU's
 - Windows Server
 - Web Server
 - osTicket v1.15.8
+- osTicket dependencies below:
 - PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 - Rewrite Module (rewrite_amd64_en-US.msi)
 - Redistributable Package for Microsoft C++ (VC_redist.x86.exe)
 - MySQL (mysql-5.5.62-win32.msi) Database
 - HeidiSQL Database
-- Notetaking application (Notes for MacOS or Sublime)
 
 <h2>Installation Steps</h2>
 
