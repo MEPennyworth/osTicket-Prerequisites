@@ -309,7 +309,7 @@ Step 27: Internet Information Services (IIS) dependencies and Configuration need
 
 - Scroll down to the "Internet Information Services(IIS)" folder, check the box and expand it
 - Expand the World Wide Web Services folder
-- In that folder, expand the Application Development Features and check the Common Gateway Interface (CGI) folder. It is a protocol for web server and external application communication. It allows for dynamic content generation and it can handle various scripting languages and executable programs
+- In that folder, expand the Application Development Features and check the Common Gateway Interface (CGI) folder. CGI is a protocol for web server and external application communication. It allows for dynamic content generation and it can handle various scripting languages and executable programs
 - Finally, click the "OK" button to begin the configuartions of the dependencies needed to enable IIS
 </p>
 <br />
