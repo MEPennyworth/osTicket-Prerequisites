@@ -297,15 +297,20 @@ Step 25: From the Control Panel settings, click on the "uninstall a program" und
 <img src="https://i.imgur.com/kbUKUj7.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 26: In the Progrmas and Features panel, click on the "Turn Windows features on or off" to open the Windows Features setting 
+Step 26: In the Programs and Features panel, click on the "Turn Windows features on or off" to open the Windows Features setting 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gRaHp0T.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 27: Internet Information Services (IIS) dependencies and Configuration needed to host the osTicket application 
+
+- Scroll down to the "Internet Information Services(IIS)" folder, check the box and expand it
+- Expand the World Wide Web Services folder
+- In that folder, expand the Application Development Features and check the Common Gateway Interface (CGI) folder. It is a protocol for web server and external application communication. It allows for dynamic content generation and it can handle various scripting languages and executable programs
+- Finally, click the "OK" button to begin the configuartions of the dependencies needed to enable IIS
 </p>
 <br />
 
