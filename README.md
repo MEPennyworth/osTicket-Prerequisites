@@ -37,7 +37,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 Step 1: Sign in to Azure Portal
-   - Navigate to the [Azure Portal](https://portal.azure.com) and sign in with your Microsoft account credentials. After a successful sign-in, the user will be directed to the Azure dashboard. Navigate to the Virtual Machines icon by clicking on it.  
+   
+-  Navigate to the [Microsoft Azure Portal](https://portal.azure.com)
+-  Sign in with the user's Microsoft Azure account credentials
+-  On the home page of Microsoft Azure, locate and select the Virtual Machines icon
 </p>
 <br />
 
@@ -99,7 +102,7 @@ Step 5: Configure Networking
 <p>
 Step 6: Review + Create
    
-- On this page, click on the "Review + Create" tab to validate the creation of the WindowsOS virtual machine
+- On this page, select the "Review + Create" tab to validate the creation of the WindowsOS virtual machine
 - Wait till Microsift Azure validates the process. When the "Validation passed" notification appears on top of the page, proceed to click on the "create" tab below to initiate the creation of the virtual machine 
 </p>
 <br />
@@ -157,7 +160,7 @@ Step 11: Start osTicket-VM
 <p>
 Step 12: Confirm the Virtual machine selection
    
-- Proceed by clicking "Yes"
+- Proceed by selecting "Yes"
 - This will start the osTicket-VM   
 </p>
 <br />
