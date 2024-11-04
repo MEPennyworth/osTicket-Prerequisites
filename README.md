@@ -310,15 +310,18 @@ Step 27: Internet Information Services (IIS) dependencies and Configuration need
 - Scroll down to the "Internet Information Services(IIS)" folder, check the box and expand it
 - Expand the World Wide Web Services folder
 - In that folder, expand the Application Development Features and check the Common Gateway Interface (CGI) folder. CGI is a protocol for web server and external application communication. It allows for dynamic content generation and it can handle various scripting languages and executable programs
-- Finally, click the "OK" button to begin the configuartions of the dependencies needed to enable IIS
+- Finally, click the "OK" button to begin the configuration of the dependencies needed to enable IIS
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K6Cr96p.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 28: Verify if "Internet Information Services(IIS)" is enabled
+
+- Open Microsoft Edge and type 127.0.0.1 into the search bar
+- If the "Internet Information Services(IIS)" page opens successfully, then the dependcies were properly configured and enabled
 </p>
 <br />
 
