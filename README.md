@@ -366,7 +366,9 @@ Step 32: PHP Manager installation complete
 </p>
 <p>
 Step 33: Install the Rewrite Module
-   
+
+- Open the osTicket installation files folder on the desktop and select the Rewrite module folder to open and begin the installation of the Rewrite module
+- Follow through the pop-ups to complete the installation of the Rewrite module   
 </p>
 <br />
 
