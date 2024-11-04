@@ -334,7 +334,7 @@ Step 29: Open the osTicket installation files folder on the desktop and select P
 <br />
 
 <p>
-<img src="https://i.imgur.com/d4rjreq.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AfKoz1D.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 30: PHP Manager for IIS License Agreement. Agree to the terms and proceed to the PHP Manager for IIS Setup Wizard section
