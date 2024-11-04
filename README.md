@@ -270,7 +270,7 @@ Step 22: After installation, unzip and extract the osTicket zip files on to the 
 <br />
 
 <p>
-<img src="https://imgur.com/a/DfiqwYv" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hLOGKCR.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 23: Open the osTicket files to reveal the dependencies needed for the osTicket installation and setup
