@@ -360,7 +360,7 @@ Step 32: PHP Manager installation complete
 <br />
 
 <p>
-<img src="https://i.imgur.com/E3b7dV1.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ag9p8lY.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/9JhCNaj.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
