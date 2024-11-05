@@ -361,8 +361,7 @@ Step 32: PHP Manager installation complete
 
 <p>
 <img src="https://i.imgur.com/Ag9p8lY.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-   
-<img src="https://i.imgur.com/9JhCNaj.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Step 33: Install the Rewrite Module
