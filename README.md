@@ -361,7 +361,7 @@ Step 32: PHP Manager installation complete
 
 <p>
 <img src="https://i.imgur.com/Ag9p8lY.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<img src="https://i.imgur.com/bO5oGhv.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 33: Install the Rewrite Module
@@ -375,8 +375,6 @@ The Rewrite Module in osTicket is primarily used to improve the usability and SE
 
 <p>
 <img src="https://imgur.com/a/DfiqwYv.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-   
-<img src="https://i.imgur.com/7aLN33b.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 34: Create a PHP folder
