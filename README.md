@@ -378,8 +378,6 @@ The Rewrite Module in osTicket is primarily used to improve the usability and SE
 <img src="https://imgur.com/a/DfiqwYv.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
    
 <img src="https://i.imgur.com/7aLN33b.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 34: Create a PHP folder
