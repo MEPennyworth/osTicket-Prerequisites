@@ -379,11 +379,13 @@ The Rewrite Module in osTicket is primarily used to improve the usability and SE
 <img src="https://i.imgur.com/59tMb5H.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 34: Create a PHP folder
+Step 34: Create a PHP folder in the Windows (C:) Drive
 
-- Under this PC, navigate to Woindows (C:), then create a new folder and name it PHP
-- Open the osTicket installation folder on the desktop and select PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip)
-- Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+- Step 1: Open the osTicket installation folder on the desktop select and right click PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip), then select Extract All
+- Step 2: Don't extract all the files yet
+- Step 3: Select "Browse"
+- Step 4: Navigate to the newly created "PHP" folder on the C: Drive and select the folder  
+- Step 5: Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
 </p>
 <br />
 
