@@ -385,7 +385,8 @@ Step 34: Create a PHP folder in the Windows (C:) Drive
 - Step 2: Don't extract all the files yet
 - Step 3: Select "Browse"
 - Step 4: Navigate to the newly created "PHP" folder on the C: Drive and select the folder  
-- Step 5: Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+- Step 5: Unzip the PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+- The purpose of PHP 7.3.8 : PHP 7.3.8 is essential for running osTicket effectively, handling everything from processing backend logic to interacting with databases and managing user requests
 </p>
 <br />
 
