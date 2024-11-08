@@ -481,10 +481,15 @@ Step 40: Confirm the executable path and click "OK"
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3kWHHZZ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/D1gZZlr.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 41: Navigate back to the IIS Manager page (OsTicket-VM Home)
+
+   - Image A: Right click on the osTicket-VM(osTicket-VM Home) under connections and click stop to stop IIS
+   - Image B: Wait for a minute, then follow the same procedure to start IIS
+   - This step can also be effectively executed using the "Actions Box" to the right under "Manage Server"
 </p>
 <br />
 
