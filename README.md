@@ -179,7 +179,7 @@ Step 13: Check the Notifications box to confirm the Start command was properly e
 <p>
 Step 14: If not previously installed, proceed to install and open the Windows App (formerly Remote Desktop) on MacOS 
 
-- On Windows App, click on the (+) icon and select "Add PC" to open the "Add PC" dialogue box  
+- While in the Windows App, click on the (+) icon and select "Add PC" to open the "Add PC" dialogue box  
 </p>
 <br />
 
@@ -189,7 +189,7 @@ Step 14: If not previously installed, proceed to install and open the Windows Ap
 <p>
 Step 15: Configure the added PC on Windows App
 
-- Retrieve the saved osTicket-VM Public IP address from Step 10 saved on the preferred Note taking APP
+- Retrieve the saved osTicket-VM Public IP address from Step 10 
 - In the Edit PC dialogue box, paste the copied osTicket-VM Public IP address in the "PC name box"
 - In the "Friendly name box", type the name "osTicket" and click save
 - This will then prompt the opening of the credentials box  
@@ -202,7 +202,7 @@ Step 15: Configure the added PC on Windows App
 <p>
 Step 16: Enter Your Credentials
 
-- Retrieve the saved Username and Password for the osTicket-VM previously saved on the preferred Notetaking app in Step 3
+- Retrieve the saved Username and Password for the osTicket-VM previously saved in Step 3
 - Enter those credentials into the Username and Password boxes respectively
 - Click "Continue"
 </p>
