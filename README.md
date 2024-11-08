@@ -421,15 +421,15 @@ Step 35: Installation of MySQL-5.5.62-win32
 
 - The installation of MySQL-5.5.62-win32 is a fundamental step in setting up osTicket, since it provides the necessary backend framework for data management and storage
 - Image A: Navigate to the osTicket Installation folder on the desktop and select MySQL-5.5.62-win32 to open the MySQL Server 5.5 Setup Wizard and click "Next"
-- Image B: Accept the user agreement license and click next to proceed to the Setup type
-- Image C: At this stage, select the box "Typical" which is the requirement needed for this particular osTicket setup to proceed to the next step
-- Image D: Click on install to begin the installation of MySQL-5.5.62-win32
+- Image B: Accept the user agreement license and click next 
+- Image C: At this stage, select the box "Typical" which is the requirement needed for this particular osTicket setup 
+- Image D: Click on "Install" to begin the installation of MySQL-5.5.62-win32
 - Image E: Verify that the "Launch MySQL Instance Configurations Wizard" box is checked and click "Finish" to complete the setup
 - Image F: On the "MySQL Server Instance configurations Wizard Welcome" box, click the "Next" button
 - Image G: On this wizard configuration step, select "Standard Configuration", then click "Next"
 - Image H: Check the "Install as Windows Service" option, leave the pre-named Service Name (MySQL) My as is, verify that the "Launch the MySQL Server automatically" box is checked, then proceed by clicking "Next"
 - Image I: On this configuration page, select the "Modify Security Settings box and create a "root" password and retype to confirm. Please remember to add this "root" password to the Notetaking app (Notepad) for future reference. Click "Next" to continue
-- Image J: Click execute to begin to start the chosen configuration
+- Image J: Click execute to start the chosen configuration
 - Image K: Click "Finish" to complete
    
 </p>
