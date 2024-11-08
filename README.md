@@ -429,16 +429,17 @@ Step 35: Installation of MySQL-5.5.62-win32
 - Image H: Check the "Install as Windows Service" option, leave the pre-named Service Name (MySQL) My as is, verify that the "Launch the MySQL Server automatically" box is checked, then proceed by clicking "Next"
 - Image I: On this configuration page, select the "Modify Security Settings box and create a "root" password and retype to confirm. Please remember to add this "root" password to the Notetaking app (Notepad) for future reference. Click "Next" to continue
 - Image J: Click execute to start the chosen configuration
-- Image K: Click "Finish" to complete
-   
+- Image K: Click "Finish" to complete   
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/X41NUz8.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 36: Open Internet Information Services (IIS) Manager
+
+- Navigate to the IIS Manager by typing "iis" into the search bar and then select "run as an administrator"   
 </p>
 <br />
 
