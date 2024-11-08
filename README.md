@@ -411,7 +411,6 @@ Step 34: Install the Visual C++ Redistributable Package for Visual Studio ("VC_r
 <img src="https://i.imgur.com/pEWbRsh.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/cX9xgWP.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/sJL6vMx.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/s4lsRtI.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/kFwsQjA.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/fE9UZRj.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/Awq6uCT.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
