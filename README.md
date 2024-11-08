@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Notetaking application (Notes for MacOS or Sublime)
+- Notepad for WindowsOs
 - Azure Virtual Machine Windows 10, 4 vCPU's
 - Windows Server
 - Web Server
