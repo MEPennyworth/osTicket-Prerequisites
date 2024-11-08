@@ -1,8 +1,8 @@
-**Installation Prerequisites for osTicket**<p align="center">
+**Essential Installation Prerequisites for osTicket: A Comprehensive Guide**<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>Comprehensive Guide to Installing osTicket on Azure VM: Prerequisites, Setup, and Configuration</h1>
+<h1>A Comprehensive Guide to Installation Prerequisites for osTicket on Azure VM</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
