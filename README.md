@@ -466,9 +466,9 @@ Step 38: Register new PHP version to enable PHP via FastCGI
 <img src="https://i.imgur.com/hfkHZyR.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 39: Open the "php-cgi" file previously zipped into the PHP folder onto the C: Drive in Step 34
+Step 39: Open the "php-cgi.exe" executable file previously zipped into the PHP folder onto the C: Drive in Step 34
 
-   - Navigate to the C:Drive, open the PHP folder, select the "php-cgi" file, then select "Open" to provide a path to the php executable file (php-cgi.exe)
+   - Navigate to the C:Drive, open the PHP folder, double click on the "php-cgi" file, then select "Open" to provide a path to the php executable file (php-cgi.exe)
 </p>
 <br />
 
