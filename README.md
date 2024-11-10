@@ -457,6 +457,8 @@ Step 37: On the Internet Information Services (IIS) Manager page, select the "PH
 <p>
 Step 38: Register new PHP version to enable PHP via FastCGI
 
+FastCGI (Fast Common Gateway Interface) is a protocol used to interface web servers with external programs, such as PHP or other scripting languages, to handle dynamic content efficiently. In the context of Windows IIS (Internet Information Services), FastCGI provides several important benefits including serving as a powerful mechanism for improving the performance, scalability, and manageability of web applications running on IIS.
+
    - Click on "Register New PHP version" to begin the registration
    - In the "Register New PHP version" dialogue box, then click on the browse icon
 </p>
