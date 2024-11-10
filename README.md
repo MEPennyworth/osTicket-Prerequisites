@@ -426,7 +426,7 @@ Step 35: Installation of MySQL-5.5.62-win32
 - Image E: Verify that the "Launch MySQL Instance Configurations Wizard" box is checked and click "Finish" to complete the setup
 - Image F: On the "MySQL Server Instance configurations Wizard Welcome" box, click the "Next" button
 - Image G: On this wizard configuration step, select "Standard Configuration", then click "Next"
-- Image H: Check the "Install as Windows Service" option, leave the pre-named Service Name (MySQL) My as is, verify that the "Launch the MySQL Server automatically" box is checked, then proceed by clicking "Next"
+- Image H: Check the "Install as Windows Service" option, leave the pre-named Service Name (MySQL) as is, verify that the "Launch the MySQL Server automatically" box is checked, then proceed by clicking "Next"
 - Image I: On this configuration page, select the "Modify Security Settings box and create a "root" password and retype to confirm. Please remember to add this "root" password to the Notetaking app (Notepad) for future reference. Click "Next" to continue
 - Image J: Click execute to start the chosen configuration
 - Image K: Click "Finish" to complete   
